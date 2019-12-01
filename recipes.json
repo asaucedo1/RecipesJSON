@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peanut butter Oatmeal",
+    "ingredients": ["oatmeal", "peanut butter", "baking powder"],
+    "cookingInstructions": ["Mix ingredients", "bake for 20 minutes at 350 degrees"]
+  },
+  {
+    "name": "Chocolate Chip",
+    "ingredients": ["cookies batter", "chocolate chips", "baking powder"],
+    "cookingInstructions": ["Mix ingredients", "bake for 30 minutes at 350 degrees"]
+  },
+  {
+    "name": "Snickerdoodle",
+    "ingredients": ["butter", "eggs", "sugar", "vanilla extract"],
+    "cookingInstructions": ["Mix ingredients", "bake for 35 minutes at 200 degrees"]
+  }
+]
